@@ -1,0 +1,38 @@
+body{
+    background-image: url(pexels-engin-akyurt-1486861.jpg);
+    background-size: cover;
+}
+
+
+
+.calculator{
+    margin-top: 8%;
+    margin-left: 35%;
+    justify-content: center;
+    width: 280px;
+    background-color:rgb(255, 83, 118);
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    color:white;
+}
+
+#display{
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: 60px ;
+    height: 60px ;
+    border-radius: 50%;
+    border: 0;
+    margin-bottom: 10px;
+
+}
